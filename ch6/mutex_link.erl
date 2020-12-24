@@ -1,5 +1,5 @@
 -module(mutex_link).
--author("vladmyko").
+-author("V'yacheslav").
 -export([start/0, stop/0]).
 -export([wait/0, signal/0]).
 -export([init/0]).
