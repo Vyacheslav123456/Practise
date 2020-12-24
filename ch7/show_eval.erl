@@ -1,5 +1,5 @@
 -module(show_eval).
--author("vladmyko").
+-author("V'yacheslav").
 
 -export([test/0]).
 
