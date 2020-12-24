@@ -1,5 +1,5 @@
 -module(enum_type).
--author("vladmyko").
+-author("V'yacheslav").
 
 -export([test/0]).
 
