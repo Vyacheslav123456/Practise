@@ -1,5 +1,5 @@
 -module(index2).
--author("vladmyko").
+-author("V'yacheslav").
 -export([processWords/2]).
 
 processWords(Words, N) ->
