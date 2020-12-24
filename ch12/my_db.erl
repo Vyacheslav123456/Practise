@@ -1,5 +1,5 @@
 -module(my_db).
--author("vladmyko").
+-author("V'yacheslav").
 -export([start/0, stop/0]).
 -export([write/2, delete/1, read/1, match/1]).
 -export([init/1, terminate/2, handle_call/3, handle_cast/2]).
