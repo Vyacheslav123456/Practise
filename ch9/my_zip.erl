@@ -1,5 +1,5 @@
 -module(my_zip).
--author("vladmyko").
+-author("V'yacheslav").
 
 -export([zip/2, zipWith/3]).
 
