@@ -1,5 +1,5 @@
 -module(ex3_5).
--author("vladmyko").
+-author("V'yacheslav").
 -export([filter/2, reverse/1, concatenate/1, flatten/1, test/0]).
 
 %% ex 3-5
