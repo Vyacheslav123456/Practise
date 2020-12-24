@@ -1,5 +1,5 @@
 -module(muppet).
--author("vladmyko").
+-author("V'yacheslav").
 -export([create_schema/0, create_tables/0, write/3, read/1, increase_pay/2]).
 
 -include("muppet.hrl").
