@@ -1,5 +1,5 @@
 -module(my_supervisor).
--author("vladmyko").
+-author("V'yacheslav").
 -export([start_link/2, stop/1]).
 -export([init/1]).
 -export([start_child/4, stop_child/2]).
