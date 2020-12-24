@@ -1,5 +1,5 @@
 -module(shape).
--author("vladmyko").
+-author("V'yacheslav").
 
 -record(circle, {radius}).
 -record(rectangle, {length, width}).
