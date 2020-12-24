@@ -1,5 +1,5 @@
 -module(ex4_2).
--author("vladmyko").
+-author("V'yacheslav").
 -export([start/3, start_proc/4]).
 
 start(M, N, Message) ->
