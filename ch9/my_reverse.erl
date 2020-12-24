@@ -1,5 +1,5 @@
 -module(my_reverse).
--author("vladmyko").
+-author("V'yacheslav").
 
 -export([reverse/1]).
 
