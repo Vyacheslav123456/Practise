@@ -1,5 +1,5 @@
 -module(btree).
--author("vladmyko").
+-author("V'yacheslav").
 
 -export([sum/1, max/1, min/1, is_ordered/1, insert/2]).
 -record(btree, {elem, left=[], right=[]}).
