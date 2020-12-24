@@ -1,5 +1,5 @@
 -module(index).
--author("vladmyko").
+-author("V'yacheslav").
 
 -export([processFile/2, prettyEntry/1]). 
 
