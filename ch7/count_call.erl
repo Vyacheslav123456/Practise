@@ -1,5 +1,5 @@
 -module(count_call).
--author("vladmyko").
+-author("V'yacheslav").
 
 -ifdef(debug).
     -define(count(Fun), io:format(standard_error, "~p:~p called~n", [?MODULE, Fun])).
