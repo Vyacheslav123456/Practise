@@ -1,5 +1,5 @@
 -module(lc).
--author("vladmyko").
+-author("V'yacheslav").
 
 -export([div3/0, int_seq/1, intersection/2, symdiff/2]).
 
