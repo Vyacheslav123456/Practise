@@ -1,5 +1,5 @@
 -module(ex3_9).
--author("vladmyko").
+-author("V'yacheslav").
 -compile(export_all).
 
 %% refer to pichi's solution
