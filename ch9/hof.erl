@@ -1,5 +1,5 @@
 -module(hof).
--author("vladmyko").
+-author("V'yacheslav").
 
 -export([print_int/1, smaller/2, print_even/1, concat/1, sum/1]).
 
