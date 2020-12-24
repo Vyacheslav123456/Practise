@@ -1,5 +1,5 @@
 -module(foobar).
--author("vladmyko").
+-author("V'yacheslav").
 
 -export([foobar/1]).
 
