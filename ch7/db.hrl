@@ -1,2 +1,2 @@
 -record(data, {key, data}).
--author("vladmyko").
+-author("V'yacheslav").
