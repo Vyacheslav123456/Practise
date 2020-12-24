@@ -1,5 +1,5 @@
 -module(frequency).
--author("vladmyko").
+-author("V'yacheslav").
 -export([start/0, stop/0, allocate/0, deallocate/1]).
 -export([init/0]).
 
