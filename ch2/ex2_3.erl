@@ -1,5 +1,5 @@
 -module(ex2_3).
--author("vladmyko").
+-author("V'yacheslav").
 -export([b_not/1, b_and/2, b_or/2, b_nand/2, test/0]).
 
 b_not(false) -> true;
