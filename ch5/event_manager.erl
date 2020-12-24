@@ -1,5 +1,5 @@
 -module(event_manager).
--author("vladmyko").
+-author("V'yacheslav").
 -export([start/2, stop/1]).
 -export([add_handler/3, delete_handler/2, get_data/2, send_event/2, swap_handlers/3]).
 -export([init/1]).
