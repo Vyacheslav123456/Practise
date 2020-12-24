@@ -1,5 +1,5 @@
 -module(stats_handler).
--author("vladmyko").
+-author("V'yacheslav").
 -export([init/1, terminate/1, handle_event/2]).
 
 init(_) -> 
