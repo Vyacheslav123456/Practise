@@ -1,5 +1,5 @@
 -module(ex4_1).
--author("vladmyko").
+-author("V'yacheslav").
 -export([start/0, print/1, stop/0, loop/0]).
 
 start() -> 
