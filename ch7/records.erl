@@ -1,5 +1,5 @@
 -module(records).
--author("vladmyko").
+-author("V'yacheslav").
 -export([birthday/1, joe/0, showPerson/1]).
 
 -record(person, {name,age=0,phone,addr}).
