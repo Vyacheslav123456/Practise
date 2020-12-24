@@ -1,7 +1,7 @@
  %% ex2_2
  -module(ex2_2).
  -export([area/1]).
- -author("vladmyko").
+ -author("V'acheslav").
 
  -import(math, [sqrt/1]).
  
